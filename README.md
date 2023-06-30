@@ -1,2 +1,6 @@
 # Language_Parser
-A parser that reads OPAP .json files with results  from lotteries and check is there is any errors in the .json file.
+
+
+  A compiler that checks for errors in a .json file that contains lotterie results from ΟΠΑΠ ΑΕ. The compiler consists of two parts, a lexical analyzer (Flex) and a syntax analyzer (Bison).
+
+  The project.l file contains 
